@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Incidencias10</string>
+    <string name="title_list">Lista</string>
+    <string name="title_preferences">Preferencias</string>
+    <string name="nuke">NUKE!</string>
+    <string name="btnAdd">Añadir</string>
+    <string name="btnList">Lista</string>
+    <string name="btnRemove">Borrar</string>
+    <string name="btnPreferences">Preferencias</string>
+    <string name="txtTitle">Título</string>
+    <string name="txtDescription">Descripción</string>
+    <string name="txtSave">Guardar</string>
+    <string name="hintIncidents">Incidencia</string>
+    <string name="hintState">Estado</string>
+    <string-array name="Incidents">
+        <item>Bajo</item>
+        <item>Medio</item>
+        <item>Alto</item>
+    </string-array>
+    <string-array name="State">
+        <item>Pendiente</item>
+        <item>Asignado</item>
+        <item>Completado</item>
+    </string-array>
+    <string name="Idioma">Idiomas</string>
+    <string name="title_add">Añadir</string>
+</resources>

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Incidencias10</string>
+    <string name="title_list">List</string>
+    <string name="title_preferences">Preferences</string>
+    <string name="nuke">NUKE!</string>
+    <string name="btnAdd">Add</string>
+    <string name="btnList">List</string>
+    <string name="btnRemove">Remove</string>
+    <string name="btnPreferences">Preferences</string>
+    <string name="txtTitle">Title</string>
+    <string name="txtDescription">Description</string>
+    <string name="txtSave">Save</string>
+    <string name="hintIncidents">Incidents</string>
+    <string name="hintState">State</string>
+    <string-array name="Incidents">
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+    </string-array>
+    <string-array name="State">
+        <item>Pending</item>
+        <item>Assigned</item>
+        <item>Accomplished</item>
+    </string-array>
+    <string-array name="Languages">
+        <item>English</item>
+        <item>Spanish</item>
+    </string-array>
+    <string name="Idioma">Languages</string>
+    <string name="title_add">Add</string>
+</resources>
